@@ -1,0 +1,6 @@
+Flask==2.2.5
+Werkzeug==2.2.3
+openai
+python-dateutil
+sqlite3 
+prettier=3.4.2
